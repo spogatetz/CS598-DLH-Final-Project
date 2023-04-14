@@ -54,7 +54,8 @@
 		"gensim": "pip3 install gensim",
 		"torch": "pip install torch",
 		"scikit": "pip install scikit-learn",
-		"nltk": "pip install --user -U nltk"
+		"nltk": "pip install --user -U nltk",
+		"parser": "cd /workspaces/CS598-DLH-Final-Project && wget http://nlp.stanford.edu/software/stanford-corenlp-full-2018-02-27.zip && unzip stanford-corenlp-full-2018-02-27.zip"
 	},
 
 	// Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
