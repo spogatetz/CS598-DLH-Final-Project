@@ -51,6 +51,7 @@
 	// "postCreateCommand": ["pip3 install gensim", "pip install torch", "pip install scikit-learn", "pip install --user -U nltk"],
 
 	"postCreateCommand": {
+		"requests": "pip install requests",
 		"gensim": "pip3 install gensim",
 		"torch": "pip install torch",
 		"scikit": "pip install scikit-learn",
